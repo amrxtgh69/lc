@@ -12,6 +12,6 @@ impl Solution {
                 right = mid;
             }
         }
-        left as i32;
+        left as i32
     }
 }
